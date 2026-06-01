@@ -1,1 +1,17 @@
+        ListNode* P1 = head->next; // phle P1
+        ListNode* P2 = P1;         //P2 start from the same position as P1
 
+        while(P2 != NULL) {       //will run till P2 null ni ho jata
+            int sum = 0;
+            while(P2 != NULL && P2->val != 0) {   //same as above
+                sum += P2->val;                   //sum m p2 ka value add krnge 
+                P2 = P2->next;                    //p2 aage badhaenge
+            }
+
+            P1->val = sum;                       //p1 k value sum m dale
+            P2 = P2->next;                       //p2 ko aage badhae
+            P1->next = P2;                      //p1 k next ko p2 s connect kie taki ek order m aa ske dono p1 p2
+            P1 = P1->next;                     // p1 ko aage bdhae
+        }
+
+        return head->next;                   p1 jaha s shuru kie the head k next s vo return ho gya
