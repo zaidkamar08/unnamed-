@@ -1,0 +1,8 @@
+ if(head==NULL || head->next==NULL) return head;
+        ListNode* temp=insertGreatestCommonDivisors(head->next);
+        ListNode* gcdNode=new ListNode(__gcd(head->val,head->next->val));
+
+        gcdNode->next=temp;
+        head->next=gcdNode;
+
+        return head;
