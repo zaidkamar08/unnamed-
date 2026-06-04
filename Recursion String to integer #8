@@ -1,0 +1,24 @@
+function myAtoi(string):
+
+    set result = 0
+    set sign = +1
+    set index = 0
+
+    WHILE index < length AND string[index] == ' ':
+        index++
+
+    IF string[index] == '-':
+        sign = -1
+        index++
+    ELSE IF string[index] == '+':
+        index++
+
+    WHILE index < length AND string[index] is a digit:
+        digit = string[index] - '0'
+
+        check if result will overflow → return clamp if yes
+
+        result = result * 10 + digit
+        index++
+
+    RETURN sign * result
