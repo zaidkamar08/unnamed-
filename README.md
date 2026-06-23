@@ -21,4 +21,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/zaidkamar08/unnamed-/tree/master/0238-product-of-array-except-self) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/zaidkamar08/unnamed-/tree/master/3699-number-of-zigzag-arrays-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/zaidkamar08/unnamed-/tree/master/3699-number-of-zigzag-arrays-i) |
 <!---LeetCode Topics End-->
