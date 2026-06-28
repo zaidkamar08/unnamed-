@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/zaidkamar08/unnamed-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0282-expression-add-operators](https://github.com/zaidkamar08/unnamed-/tree/master/0282-expression-add-operators) |
 | [1189-maximum-number-of-balloons](https://github.com/zaidkamar08/unnamed-/tree/master/1189-maximum-number-of-balloons) |
 ## Counting
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0282-expression-add-operators](https://github.com/zaidkamar08/unnamed-/tree/master/0282-expression-add-operators) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/zaidkamar08/unnamed-/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Divide and Conquer
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/zaidkamar08/unnamed-/tree/master/0037-sudoku-solver) |
+| [0282-expression-add-operators](https://github.com/zaidkamar08/unnamed-/tree/master/0282-expression-add-operators) |
 ## Matrix
 |  |
 | ------- |
