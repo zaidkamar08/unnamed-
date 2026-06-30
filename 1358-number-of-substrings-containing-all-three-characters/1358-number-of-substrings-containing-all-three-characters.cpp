@@ -5,7 +5,7 @@ public:
 
         int result = 0;
         
-        vector<int> mp(3, 0); //0 - a, 1 - b, 2 - c
+        vector<int> mp(3, 0); 
 
         int i = 0;
         int j = 0;
