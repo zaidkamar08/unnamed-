@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/zaidkamar08/unnamed-/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/zaidkamar08/unnamed-/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/zaidkamar08/unnamed-/tree/master/0282-expression-add-operators) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/zaidkamar08/unnamed-/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/zaidkamar08/unnamed-/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/zaidkamar08/unnamed-/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
