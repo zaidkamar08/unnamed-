@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/zaidkamar08/unnamed-/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/zaidkamar08/unnamed-/tree/master/0282-expression-add-operators) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/zaidkamar08/unnamed-/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/zaidkamar08/unnamed-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Divide and Conquer
 |  |
 | ------- |
