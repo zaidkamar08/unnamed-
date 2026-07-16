@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/zaidkamar08/unnamed-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/zaidkamar08/unnamed-/tree/master/0037-sudoku-solver) |
+| [0496-next-greater-element-i](https://github.com/zaidkamar08/unnamed-/tree/master/0496-next-greater-element-i) |
 | [1189-maximum-number-of-balloons](https://github.com/zaidkamar08/unnamed-/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/zaidkamar08/unnamed-/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/zaidkamar08/unnamed-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/zaidkamar08/unnamed-/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/zaidkamar08/unnamed-/tree/master/0137-single-number-ii) |
 | [0238-product-of-array-except-self](https://github.com/zaidkamar08/unnamed-/tree/master/0238-product-of-array-except-self) |
+| [0496-next-greater-element-i](https://github.com/zaidkamar08/unnamed-/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/zaidkamar08/unnamed-/tree/master/0704-binary-search) |
 | [1288-remove-covered-intervals](https://github.com/zaidkamar08/unnamed-/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/zaidkamar08/unnamed-/tree/master/1301-number-of-paths-with-max-score) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/zaidkamar08/unnamed-/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/zaidkamar08/unnamed-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/zaidkamar08/unnamed-/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/zaidkamar08/unnamed-/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -223,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/zaidkamar08/unnamed-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/zaidkamar08/unnamed-/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/zaidkamar08/unnamed-/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
