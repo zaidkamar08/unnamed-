@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/zaidkamar08/unnamed-/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/zaidkamar08/unnamed-/tree/master/0037-sudoku-solver) |
+| [0042-trapping-rain-water](https://github.com/zaidkamar08/unnamed-/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/zaidkamar08/unnamed-/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/zaidkamar08/unnamed-/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/zaidkamar08/unnamed-/tree/master/0137-single-number-ii) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/zaidkamar08/unnamed-/tree/master/0042-trapping-rain-water) |
 | [1301-number-of-paths-with-max-score](https://github.com/zaidkamar08/unnamed-/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/zaidkamar08/unnamed-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/zaidkamar08/unnamed-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -204,11 +206,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/zaidkamar08/unnamed-/tree/master/0042-trapping-rain-water) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/zaidkamar08/unnamed-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/zaidkamar08/unnamed-/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/zaidkamar08/unnamed-/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/zaidkamar08/unnamed-/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/zaidkamar08/unnamed-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/zaidkamar08/unnamed-/tree/master/0232-implement-queue-using-stacks) |
@@ -234,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/zaidkamar08/unnamed-/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/zaidkamar08/unnamed-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/zaidkamar08/unnamed-/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
