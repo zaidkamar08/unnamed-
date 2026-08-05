@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/zaidkamar08/unnamed-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/zaidkamar08/unnamed-/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/zaidkamar08/unnamed-/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/zaidkamar08/unnamed-/tree/master/0042-trapping-rain-water) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/zaidkamar08/unnamed-/tree/master/0004-median-of-two-sorted-arrays) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/zaidkamar08/unnamed-/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/zaidkamar08/unnamed-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/zaidkamar08/unnamed-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/zaidkamar08/unnamed-/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/zaidkamar08/unnamed-/tree/master/0704-binary-search) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/zaidkamar08/unnamed-/tree/master/2812-find-the-safest-path-in-a-grid) |
