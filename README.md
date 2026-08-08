@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/zaidkamar08/unnamed-/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/zaidkamar08/unnamed-/tree/master/0137-single-number-ii) |
 | [0238-product-of-array-except-self](https://github.com/zaidkamar08/unnamed-/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/zaidkamar08/unnamed-/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/zaidkamar08/unnamed-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/zaidkamar08/unnamed-/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/zaidkamar08/unnamed-/tree/master/0704-binary-search) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/zaidkamar08/unnamed-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/zaidkamar08/unnamed-/tree/master/0239-sliding-window-maximum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/zaidkamar08/unnamed-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Math
 |  |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/zaidkamar08/unnamed-/tree/master/0239-sliding-window-maximum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/zaidkamar08/unnamed-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/zaidkamar08/unnamed-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/zaidkamar08/unnamed-/tree/master/3620-network-recovery-pathways) |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/zaidkamar08/unnamed-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/zaidkamar08/unnamed-/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/zaidkamar08/unnamed-/tree/master/0239-sliding-window-maximum) |
 ## Number Theory
 |  |
 | ------- |
@@ -273,4 +277,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/zaidkamar08/unnamed-/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/zaidkamar08/unnamed-/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/zaidkamar08/unnamed-/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
