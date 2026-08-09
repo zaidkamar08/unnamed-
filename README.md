@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/zaidkamar08/unnamed-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/zaidkamar08/unnamed-/tree/master/0037-sudoku-solver) |
+| [0146-lru-cache](https://github.com/zaidkamar08/unnamed-/tree/master/0146-lru-cache) |
 | [0496-next-greater-element-i](https://github.com/zaidkamar08/unnamed-/tree/master/0496-next-greater-element-i) |
 | [1189-maximum-number-of-balloons](https://github.com/zaidkamar08/unnamed-/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/zaidkamar08/unnamed-/tree/master/1331-rank-transform-of-an-array) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/zaidkamar08/unnamed-/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/zaidkamar08/unnamed-/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/zaidkamar08/unnamed-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/zaidkamar08/unnamed-/tree/master/0232-implement-queue-using-stacks) |
@@ -292,4 +294,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/zaidkamar08/unnamed-/tree/master/0901-online-stock-span) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/zaidkamar08/unnamed-/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/zaidkamar08/unnamed-/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
