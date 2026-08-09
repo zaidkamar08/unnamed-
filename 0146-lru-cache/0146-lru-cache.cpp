@@ -1,7 +1,7 @@
 class LRUCache {
 public:
-    list<int> dll; //it contains the key
-    map<int, pair<list<int>::iterator, int>> cache; //key->(list_node, value)
+    list<int> dll; 
+    map<int, pair<list<int>::iterator, int>> cache;
     int capacity;
     
     LRUCache(int capacity) {
