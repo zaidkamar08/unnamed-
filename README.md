@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/zaidkamar08/unnamed-/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/zaidkamar08/unnamed-/tree/master/0930-binary-subarrays-with-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/zaidkamar08/unnamed-/tree/master/1189-maximum-number-of-balloons) |
+| [1248-count-number-of-nice-subarrays](https://github.com/zaidkamar08/unnamed-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/zaidkamar08/unnamed-/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/zaidkamar08/unnamed-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/zaidkamar08/unnamed-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/zaidkamar08/unnamed-/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/zaidkamar08/unnamed-/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/zaidkamar08/unnamed-/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/zaidkamar08/unnamed-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1288-remove-covered-intervals](https://github.com/zaidkamar08/unnamed-/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/zaidkamar08/unnamed-/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/zaidkamar08/unnamed-/tree/master/1331-rank-transform-of-an-array) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/zaidkamar08/unnamed-/tree/master/0238-product-of-array-except-self) |
 | [0930-binary-subarrays-with-sum](https://github.com/zaidkamar08/unnamed-/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/zaidkamar08/unnamed-/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/zaidkamar08/unnamed-/tree/master/1248-count-number-of-nice-subarrays) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/zaidkamar08/unnamed-/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/zaidkamar08/unnamed-/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/zaidkamar08/unnamed-/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/zaidkamar08/unnamed-/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/zaidkamar08/unnamed-/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/zaidkamar08/unnamed-/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/zaidkamar08/unnamed-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/zaidkamar08/unnamed-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Math
 |  |
@@ -112,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/zaidkamar08/unnamed-/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/zaidkamar08/unnamed-/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/zaidkamar08/unnamed-/tree/master/0282-expression-add-operators) |
+| [1248-count-number-of-nice-subarrays](https://github.com/zaidkamar08/unnamed-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/zaidkamar08/unnamed-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/zaidkamar08/unnamed-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/zaidkamar08/unnamed-/tree/master/3658-gcd-of-odd-and-even-sums) |
