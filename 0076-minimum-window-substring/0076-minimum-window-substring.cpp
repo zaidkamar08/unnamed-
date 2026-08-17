@@ -19,7 +19,7 @@ public:
             
             mp[ch_j]--;
             
-            while(requiredCount == 0) { //try to shrink the window
+            while(requiredCount == 0) { 
                 if(minWindow > j-i+1) {
                     minWindow = j-i+1;
                     minStart  = i;
@@ -32,7 +32,7 @@ public:
                 i++;
             }
             
-            j++; //Don't ever forget this :-)
+            j++; 
         }
         
         return minWindow == INT_MAX ? "" : s.substr(minStart, minWindow);
