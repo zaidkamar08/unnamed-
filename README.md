@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/zaidkamar08/unnamed-/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/zaidkamar08/unnamed-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/zaidkamar08/unnamed-/tree/master/0503-next-greater-element-ii) |
+| [0658-find-k-closest-elements](https://github.com/zaidkamar08/unnamed-/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/zaidkamar08/unnamed-/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/zaidkamar08/unnamed-/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/zaidkamar08/unnamed-/tree/master/0739-daily-temperatures) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/zaidkamar08/unnamed-/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/zaidkamar08/unnamed-/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/zaidkamar08/unnamed-/tree/master/0424-longest-repeating-character-replacement) |
+| [0658-find-k-closest-elements](https://github.com/zaidkamar08/unnamed-/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/zaidkamar08/unnamed-/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/zaidkamar08/unnamed-/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/zaidkamar08/unnamed-/tree/master/0992-subarrays-with-k-different-integers) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/zaidkamar08/unnamed-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/zaidkamar08/unnamed-/tree/master/0658-find-k-closest-elements) |
 | [1288-remove-covered-intervals](https://github.com/zaidkamar08/unnamed-/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/zaidkamar08/unnamed-/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/zaidkamar08/unnamed-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/zaidkamar08/unnamed-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/zaidkamar08/unnamed-/tree/master/0035-search-insert-position) |
+| [0658-find-k-closest-elements](https://github.com/zaidkamar08/unnamed-/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/zaidkamar08/unnamed-/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/zaidkamar08/unnamed-/tree/master/1004-max-consecutive-ones-iii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/zaidkamar08/unnamed-/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -214,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/zaidkamar08/unnamed-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/zaidkamar08/unnamed-/tree/master/0239-sliding-window-maximum) |
+| [0658-find-k-closest-elements](https://github.com/zaidkamar08/unnamed-/tree/master/0658-find-k-closest-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/zaidkamar08/unnamed-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/zaidkamar08/unnamed-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/zaidkamar08/unnamed-/tree/master/3620-network-recovery-pathways) |
@@ -258,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/zaidkamar08/unnamed-/tree/master/0042-trapping-rain-water) |
+| [0658-find-k-closest-elements](https://github.com/zaidkamar08/unnamed-/tree/master/0658-find-k-closest-elements) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/zaidkamar08/unnamed-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Stack
 |  |
