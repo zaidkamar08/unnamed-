@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/zaidkamar08/unnamed-/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/zaidkamar08/unnamed-/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/zaidkamar08/unnamed-/tree/master/0930-binary-subarrays-with-sum) |
+| [0973-k-closest-points-to-origin](https://github.com/zaidkamar08/unnamed-/tree/master/0973-k-closest-points-to-origin) |
 | [0992-subarrays-with-k-different-integers](https://github.com/zaidkamar08/unnamed-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/zaidkamar08/unnamed-/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/zaidkamar08/unnamed-/tree/master/1248-count-number-of-nice-subarrays) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/zaidkamar08/unnamed-/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/zaidkamar08/unnamed-/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/zaidkamar08/unnamed-/tree/master/0282-expression-add-operators) |
+| [0973-k-closest-points-to-origin](https://github.com/zaidkamar08/unnamed-/tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/zaidkamar08/unnamed-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/zaidkamar08/unnamed-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/zaidkamar08/unnamed-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/zaidkamar08/unnamed-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0215-kth-largest-element-in-an-array](https://github.com/zaidkamar08/unnamed-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/zaidkamar08/unnamed-/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/zaidkamar08/unnamed-/tree/master/0973-k-closest-points-to-origin) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/zaidkamar08/unnamed-/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/zaidkamar08/unnamed-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/zaidkamar08/unnamed-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/zaidkamar08/unnamed-/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/zaidkamar08/unnamed-/tree/master/0658-find-k-closest-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/zaidkamar08/unnamed-/tree/master/0973-k-closest-points-to-origin) |
 | [1288-remove-covered-intervals](https://github.com/zaidkamar08/unnamed-/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/zaidkamar08/unnamed-/tree/master/1331-rank-transform-of-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/zaidkamar08/unnamed-/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -228,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/zaidkamar08/unnamed-/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/zaidkamar08/unnamed-/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/zaidkamar08/unnamed-/tree/master/0658-find-k-closest-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/zaidkamar08/unnamed-/tree/master/0973-k-closest-points-to-origin) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/zaidkamar08/unnamed-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/zaidkamar08/unnamed-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/zaidkamar08/unnamed-/tree/master/3620-network-recovery-pathways) |
@@ -355,8 +360,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/zaidkamar08/unnamed-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/zaidkamar08/unnamed-/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/zaidkamar08/unnamed-/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/zaidkamar08/unnamed-/tree/master/0347-top-k-frequent-elements) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/zaidkamar08/unnamed-/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/zaidkamar08/unnamed-/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
