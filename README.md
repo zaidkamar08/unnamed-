@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/zaidkamar08/unnamed-/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/zaidkamar08/unnamed-/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/zaidkamar08/unnamed-/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/zaidkamar08/unnamed-/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/zaidkamar08/unnamed-/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/zaidkamar08/unnamed-/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/zaidkamar08/unnamed-/tree/master/0992-subarrays-with-k-different-integers) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/zaidkamar08/unnamed-/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/zaidkamar08/unnamed-/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/zaidkamar08/unnamed-/tree/master/0739-daily-temperatures) |
+| [0846-hand-of-straights](https://github.com/zaidkamar08/unnamed-/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/zaidkamar08/unnamed-/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/zaidkamar08/unnamed-/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/zaidkamar08/unnamed-/tree/master/0930-binary-subarrays-with-sum) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/zaidkamar08/unnamed-/tree/master/0402-remove-k-digits) |
 | [0621-task-scheduler](https://github.com/zaidkamar08/unnamed-/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/zaidkamar08/unnamed-/tree/master/0846-hand-of-straights) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/zaidkamar08/unnamed-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/zaidkamar08/unnamed-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/zaidkamar08/unnamed-/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/zaidkamar08/unnamed-/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/zaidkamar08/unnamed-/tree/master/0658-find-k-closest-elements) |
+| [0846-hand-of-straights](https://github.com/zaidkamar08/unnamed-/tree/master/0846-hand-of-straights) |
 | [0973-k-closest-points-to-origin](https://github.com/zaidkamar08/unnamed-/tree/master/0973-k-closest-points-to-origin) |
 | [1288-remove-covered-intervals](https://github.com/zaidkamar08/unnamed-/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/zaidkamar08/unnamed-/tree/master/1331-rank-transform-of-an-array) |
