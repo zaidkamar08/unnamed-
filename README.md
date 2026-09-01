@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/zaidkamar08/unnamed-/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/zaidkamar08/unnamed-/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/zaidkamar08/unnamed-/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/zaidkamar08/unnamed-/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/zaidkamar08/unnamed-/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/zaidkamar08/unnamed-/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/zaidkamar08/unnamed-/tree/master/0621-task-scheduler) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/zaidkamar08/unnamed-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/zaidkamar08/unnamed-/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/zaidkamar08/unnamed-/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/zaidkamar08/unnamed-/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/zaidkamar08/unnamed-/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/zaidkamar08/unnamed-/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/zaidkamar08/unnamed-/tree/master/0973-k-closest-points-to-origin) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/zaidkamar08/unnamed-/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/zaidkamar08/unnamed-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/zaidkamar08/unnamed-/tree/master/0232-implement-queue-using-stacks) |
+| [0355-design-twitter](https://github.com/zaidkamar08/unnamed-/tree/master/0355-design-twitter) |
 | [0901-online-stock-span](https://github.com/zaidkamar08/unnamed-/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/zaidkamar08/unnamed-/tree/master/0023-merge-k-sorted-lists) |
 | [0146-lru-cache](https://github.com/zaidkamar08/unnamed-/tree/master/0146-lru-cache) |
+| [0355-design-twitter](https://github.com/zaidkamar08/unnamed-/tree/master/0355-design-twitter) |
 ## Doubly-Linked List
 |  |
 | ------- |
