@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/zaidkamar08/unnamed-/tree/master/1636-sort-array-by-increasing-frequency) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/zaidkamar08/unnamed-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/zaidkamar08/unnamed-/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/zaidkamar08/unnamed-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/zaidkamar08/unnamed-/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/zaidkamar08/unnamed-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/zaidkamar08/unnamed-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/zaidkamar08/unnamed-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/zaidkamar08/unnamed-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/zaidkamar08/unnamed-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3620-network-recovery-pathways](https://github.com/zaidkamar08/unnamed-/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/zaidkamar08/unnamed-/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/zaidkamar08/unnamed-/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/zaidkamar08/unnamed-/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/zaidkamar08/unnamed-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/zaidkamar08/unnamed-/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/zaidkamar08/unnamed-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Greedy
 |  |
 | ------- |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-count-the-number-of-complete-components](https://github.com/zaidkamar08/unnamed-/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/zaidkamar08/unnamed-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/zaidkamar08/unnamed-/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/zaidkamar08/unnamed-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
 |  |
 | ------- |
@@ -285,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/zaidkamar08/unnamed-/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/zaidkamar08/unnamed-/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/zaidkamar08/unnamed-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/zaidkamar08/unnamed-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Recursion
 |  |
 | ------- |
