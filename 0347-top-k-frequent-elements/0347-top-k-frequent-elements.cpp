@@ -28,7 +28,7 @@ public:
 
         vector<int> ans;
 
-        while(!minH.empty()) {
+        while(minH.size()>0){
             ans.push_back(minH.top().second);
             minH.pop();
         }
