@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/zaidkamar08/unnamed-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/zaidkamar08/unnamed-/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/zaidkamar08/unnamed-/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/zaidkamar08/unnamed-/tree/master/0115-distinct-subsequences) |
 | [0282-expression-add-operators](https://github.com/zaidkamar08/unnamed-/tree/master/0282-expression-add-operators) |
 | [0402-remove-k-digits](https://github.com/zaidkamar08/unnamed-/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/zaidkamar08/unnamed-/tree/master/0424-longest-repeating-character-replacement) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/zaidkamar08/unnamed-/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/zaidkamar08/unnamed-/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/zaidkamar08/unnamed-/tree/master/0115-distinct-subsequences) |
 | [0907-sum-of-subarray-minimums](https://github.com/zaidkamar08/unnamed-/tree/master/0907-sum-of-subarray-minimums) |
 | [1301-number-of-paths-with-max-score](https://github.com/zaidkamar08/unnamed-/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/zaidkamar08/unnamed-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
