@@ -14,8 +14,7 @@ public:
         }
         
         
-        //always maintain left_max_heap size one greater than rigfht_min_heap size
-        //ya fir, dono ka size equal ho
+      
         
         if(abs((int)left_max_heap.size() - (int)right_min_heap.size()) > 1) {
             right_min_heap.push(left_max_heap.top());
@@ -29,12 +28,12 @@ public:
     
     double findMedian() {
         if(left_max_heap.size() == right_min_heap.size()) {
-            // matlab even number of elements hue honge
+            
             
             return (double)(left_max_heap.top()+right_min_heap.top())/2;
         }
         
-        //else hamare paas odd number of elemenes hue honge
+       
         return left_max_heap.top();
     }
 };
