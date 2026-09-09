@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/zaidkamar08/unnamed-/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/zaidkamar08/unnamed-/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/zaidkamar08/unnamed-/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/zaidkamar08/unnamed-/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/zaidkamar08/unnamed-/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/zaidkamar08/unnamed-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/zaidkamar08/unnamed-/tree/master/0085-maximal-rectangle) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/zaidkamar08/unnamed-/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/zaidkamar08/unnamed-/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/zaidkamar08/unnamed-/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/zaidkamar08/unnamed-/tree/master/0115-distinct-subsequences) |
 | [0678-valid-parenthesis-string](https://github.com/zaidkamar08/unnamed-/tree/master/0678-valid-parenthesis-string) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/zaidkamar08/unnamed-/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/zaidkamar08/unnamed-/tree/master/0402-remove-k-digits) |
 | [0621-task-scheduler](https://github.com/zaidkamar08/unnamed-/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/zaidkamar08/unnamed-/tree/master/0678-valid-parenthesis-string) |
