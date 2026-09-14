@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/zaidkamar08/unnamed-/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/zaidkamar08/unnamed-/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/zaidkamar08/unnamed-/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/zaidkamar08/unnamed-/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/zaidkamar08/unnamed-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/zaidkamar08/unnamed-/tree/master/0503-next-greater-element-ii) |
 | [0621-task-scheduler](https://github.com/zaidkamar08/unnamed-/tree/master/0621-task-scheduler) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/zaidkamar08/unnamed-/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/zaidkamar08/unnamed-/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/zaidkamar08/unnamed-/tree/master/0115-distinct-subsequences) |
+| [0435-non-overlapping-intervals](https://github.com/zaidkamar08/unnamed-/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/zaidkamar08/unnamed-/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/zaidkamar08/unnamed-/tree/master/0907-sum-of-subarray-minimums) |
 | [1301-number-of-paths-with-max-score](https://github.com/zaidkamar08/unnamed-/tree/master/1301-number-of-paths-with-max-score) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/zaidkamar08/unnamed-/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/zaidkamar08/unnamed-/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/zaidkamar08/unnamed-/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/zaidkamar08/unnamed-/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/zaidkamar08/unnamed-/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/zaidkamar08/unnamed-/tree/master/0678-valid-parenthesis-string) |
 | [0846-hand-of-straights](https://github.com/zaidkamar08/unnamed-/tree/master/0846-hand-of-straights) |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/zaidkamar08/unnamed-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/zaidkamar08/unnamed-/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/zaidkamar08/unnamed-/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/zaidkamar08/unnamed-/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/zaidkamar08/unnamed-/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/zaidkamar08/unnamed-/tree/master/0658-find-k-closest-elements) |
 | [0846-hand-of-straights](https://github.com/zaidkamar08/unnamed-/tree/master/0846-hand-of-straights) |
