@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/zaidkamar08/unnamed-/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/zaidkamar08/unnamed-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/zaidkamar08/unnamed-/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/zaidkamar08/unnamed-/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/zaidkamar08/unnamed-/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/zaidkamar08/unnamed-/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/zaidkamar08/unnamed-/tree/master/0084-largest-rectangle-in-histogram) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/zaidkamar08/unnamed-/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/zaidkamar08/unnamed-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/zaidkamar08/unnamed-/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/zaidkamar08/unnamed-/tree/master/0347-top-k-frequent-elements) |
@@ -449,4 +451,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/zaidkamar08/unnamed-/tree/master/0678-valid-parenthesis-string) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/zaidkamar08/unnamed-/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
