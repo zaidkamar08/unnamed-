@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/zaidkamar08/unnamed-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/zaidkamar08/unnamed-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/zaidkamar08/unnamed-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2409-count-days-spent-together](https://github.com/zaidkamar08/unnamed-/tree/master/2409-count-days-spent-together) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/zaidkamar08/unnamed-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Counting
 |  |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/zaidkamar08/unnamed-/tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/zaidkamar08/unnamed-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/zaidkamar08/unnamed-/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2409-count-days-spent-together](https://github.com/zaidkamar08/unnamed-/tree/master/2409-count-days-spent-together) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/zaidkamar08/unnamed-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/zaidkamar08/unnamed-/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/zaidkamar08/unnamed-/tree/master/3700-number-of-zigzag-arrays-ii) |
