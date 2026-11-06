@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/zaidkamar08/unnamed-/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/zaidkamar08/unnamed-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/zaidkamar08/unnamed-/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2747-count-zero-request-servers](https://github.com/zaidkamar08/unnamed-/tree/master/2747-count-zero-request-servers) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/zaidkamar08/unnamed-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/zaidkamar08/unnamed-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/zaidkamar08/unnamed-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/zaidkamar08/unnamed-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/zaidkamar08/unnamed-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/zaidkamar08/unnamed-/tree/master/2104-sum-of-subarray-ranges) |
+| [2747-count-zero-request-servers](https://github.com/zaidkamar08/unnamed-/tree/master/2747-count-zero-request-servers) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/zaidkamar08/unnamed-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/zaidkamar08/unnamed-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/zaidkamar08/unnamed-/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/zaidkamar08/unnamed-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/zaidkamar08/unnamed-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/zaidkamar08/unnamed-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2747-count-zero-request-servers](https://github.com/zaidkamar08/unnamed-/tree/master/2747-count-zero-request-servers) |
 ## Math
 |  |
 | ------- |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/zaidkamar08/unnamed-/tree/master/1331-rank-transform-of-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/zaidkamar08/unnamed-/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/zaidkamar08/unnamed-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2747-count-zero-request-servers](https://github.com/zaidkamar08/unnamed-/tree/master/2747-count-zero-request-servers) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/zaidkamar08/unnamed-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/zaidkamar08/unnamed-/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Search
