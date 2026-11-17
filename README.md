@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/zaidkamar08/unnamed-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/zaidkamar08/unnamed-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2409-count-days-spent-together](https://github.com/zaidkamar08/unnamed-/tree/master/2409-count-days-spent-together) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/zaidkamar08/unnamed-/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/zaidkamar08/unnamed-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/zaidkamar08/unnamed-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/zaidkamar08/unnamed-/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/zaidkamar08/unnamed-/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/zaidkamar08/unnamed-/tree/master/0907-sum-of-subarray-minimums) |
 | [1301-number-of-paths-with-max-score](https://github.com/zaidkamar08/unnamed-/tree/master/1301-number-of-paths-with-max-score) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/zaidkamar08/unnamed-/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/zaidkamar08/unnamed-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/zaidkamar08/unnamed-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/zaidkamar08/unnamed-/tree/master/3620-network-recovery-pathways) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/zaidkamar08/unnamed-/tree/master/0042-trapping-rain-water) |
 | [0295-find-median-from-data-stream](https://github.com/zaidkamar08/unnamed-/tree/master/0295-find-median-from-data-stream) |
 | [0658-find-k-closest-elements](https://github.com/zaidkamar08/unnamed-/tree/master/0658-find-k-closest-elements) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/zaidkamar08/unnamed-/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/zaidkamar08/unnamed-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Stack
 |  |
