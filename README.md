@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2747-count-zero-request-servers](https://github.com/zaidkamar08/unnamed-/tree/master/2747-count-zero-request-servers) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/zaidkamar08/unnamed-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/zaidkamar08/unnamed-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/zaidkamar08/unnamed-/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/zaidkamar08/unnamed-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/zaidkamar08/unnamed-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3364-minimum-positive-sum-subarray](https://github.com/zaidkamar08/unnamed-/tree/master/3364-minimum-positive-sum-subarray) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/zaidkamar08/unnamed-/tree/master/0907-sum-of-subarray-minimums) |
 | [1301-number-of-paths-with-max-score](https://github.com/zaidkamar08/unnamed-/tree/master/1301-number-of-paths-with-max-score) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/zaidkamar08/unnamed-/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/zaidkamar08/unnamed-/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/zaidkamar08/unnamed-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/zaidkamar08/unnamed-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/zaidkamar08/unnamed-/tree/master/3620-network-recovery-pathways) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/zaidkamar08/unnamed-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/zaidkamar08/unnamed-/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/zaidkamar08/unnamed-/tree/master/2747-count-zero-request-servers) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/zaidkamar08/unnamed-/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/zaidkamar08/unnamed-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/zaidkamar08/unnamed-/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Search
