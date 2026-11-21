@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/zaidkamar08/unnamed-/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2747-count-zero-request-servers](https://github.com/zaidkamar08/unnamed-/tree/master/2747-count-zero-request-servers) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/zaidkamar08/unnamed-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/zaidkamar08/unnamed-/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/zaidkamar08/unnamed-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/zaidkamar08/unnamed-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/zaidkamar08/unnamed-/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/zaidkamar08/unnamed-/tree/master/2409-count-days-spent-together) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/zaidkamar08/unnamed-/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/zaidkamar08/unnamed-/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/zaidkamar08/unnamed-/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/zaidkamar08/unnamed-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/zaidkamar08/unnamed-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/zaidkamar08/unnamed-/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/zaidkamar08/unnamed-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/zaidkamar08/unnamed-/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/zaidkamar08/unnamed-/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/zaidkamar08/unnamed-/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/zaidkamar08/unnamed-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3364-minimum-positive-sum-subarray](https://github.com/zaidkamar08/unnamed-/tree/master/3364-minimum-positive-sum-subarray) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/zaidkamar08/unnamed-/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/zaidkamar08/unnamed-/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/zaidkamar08/unnamed-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/zaidkamar08/unnamed-/tree/master/2685-count-the-number-of-complete-components) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/zaidkamar08/unnamed-/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/zaidkamar08/unnamed-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/zaidkamar08/unnamed-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Bit Manipulation
@@ -540,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/zaidkamar08/unnamed-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/zaidkamar08/unnamed-/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/zaidkamar08/unnamed-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/zaidkamar08/unnamed-/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/zaidkamar08/unnamed-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Search Tree
 |  |
